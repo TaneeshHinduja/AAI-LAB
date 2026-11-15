@@ -1,0 +1,9 @@
+candidate_id,candidate_name,email,skills_score,experience_score,assessment_score,application_role,rejection_reason
+C0011,Arjun Pillai,,35,71,92,Junior Software Developer,Missing field: email
+C0012,Tara Verma,not-an-email,54,41,62,Junior Software Developer,Invalid email format
+C0013,Dev Das,candidate0013@example.test,101,13,29,Junior Software Developer,skills_score must be between 0 and 100
+C0014,Mira Bose,candidate0014@example.test,56,-1,81,Junior Software Developer,experience_score must be between 0 and 100
+C0015,Kian Malhotra,candidate0015@example.test,84,35,unknown,Junior Software Developer,Invalid numeric value: assessment_score
+C0016,,candidate0016@example.test,58,37,67,Junior Software Developer,Missing field: candidate_name
+C0016,Reyansh Khan,candidate0017@example.test,61,33,71,Junior Software Developer,Duplicate candidate_id
+C0001,Aditi Menon,candidate0018@example.test,49,34,70,Junior Software Developer,Duplicate candidate_id
