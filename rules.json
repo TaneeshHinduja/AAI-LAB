@@ -1,0 +1,7 @@
+{
+  "rule_version": "1.0",
+  "criteria": {"skills_score": 40, "experience_score": 30, "assessment_score": 30},
+  "thresholds": {"shortlist_review": 75, "manual_review": 50},
+  "job_role": "Junior Software Developer",
+  "policy_note": "Synthetic classroom decision support only. Human review is required; scores are not hiring decisions."
+}
